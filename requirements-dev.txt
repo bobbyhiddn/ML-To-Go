@@ -1,0 +1,24 @@
+# Development and Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+pytest-asyncio==0.21.1
+
+# Code Quality
+black==23.11.0
+pylint==3.0.2
+flake8==6.1.0
+isort==5.12.0
+mypy==1.7.0
+
+# Documentation
+sphinx==7.2.6
+sphinx-rtd-theme==2.0.0
+
+# Notebooks
+nbformat==5.9.2
+nbstripout==0.6.1
+
+# Performance profiling
+memory-profiler==0.61.0
+line-profiler==4.1.1
